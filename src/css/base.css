@@ -187,12 +187,11 @@ a:focus {
 }
 
 .content--bg {
-	height: auto;
-	padding: 30vh 0 50vh;
+	height: 100%;
 	position: absolute;
 	align-content: center;
 	grid-template-columns: repeat(10,10%);
-	grid-template-rows: repeat(10,10vw);
+	grid-template-rows: repeat(10,1fr);
 }
 
 .content--nav {
@@ -252,6 +251,21 @@ a:focus {
 
 .content__img--tiny:nth-child(7) {
 	grid-row: 7;
+	grid-column: 8;
+}
+
+.content__img--tiny:nth-child(8) {
+	grid-row: 8;
+	grid-column: 1;
+}
+
+.content__img--tiny:nth-child(9) {
+	grid-row: 9;
+	grid-column: 4;
+}
+
+.content__img--tiny:nth-child(10) {
+	grid-row: 10;
 	grid-column: 8;
 }
 

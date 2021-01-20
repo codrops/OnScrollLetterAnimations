@@ -1,8 +1,8 @@
 # On-Scroll Letter Animations
 
-Some examples of how to animate letters on scrolling.
+Some examples of how to animate letters on scroll.
 
-![Image Title](link)
+![Image](https://tympanus.net/codrops/wp-content/uploads/2021/01/OnScrollLetterAnimations.jpg)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=52827)
 
@@ -34,8 +34,6 @@ npm run build
 - Images from [Unsplash.com](https://unsplash.com/)
 
 ## Misc
-
- 
 
 Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
 

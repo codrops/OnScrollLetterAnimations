@@ -1,7 +1,7 @@
 {
-  "name": "TextScroll",
+  "name": "OnScrollLetterAnimations",
   "version": "1.0.0",
-  "description": "*How to use this template:*",
+  "description": "Some examples of how to animate letters on scrolling.",
   "main": "src/js/index.js",
   "scripts": {
     "start": "parcel src/index.html --open",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/codrops/[NAME].git"
+    "url": "git://github.com/codrops/OnScrollLetterAnimations.git"
   },
   "keywords": [],
   "author": "Codrops",
   "license": "MIT",
-  "homepage": "http://[HOMEPAGE]",
+  "homepage": "https://tympanus.net/codrops/",
   "bugs": {
-    "url": "https://github.com/codrops/[NAME]/issues"
+    "url": "https://github.com/codrops/OnScrollLetterAnimations/issues"
   },
   "dependencies": {
     "imagesloaded": "^4.1.4",
